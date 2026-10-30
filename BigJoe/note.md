@@ -39,4 +39,9 @@ for array.length(1000) percorrer cada indice e verificar o mesmo tamanho<br>
 
 O(n log n)
 É mais eficiente é quando eu divido até achar a o menor fator comum<br>
-Exemplo Sort Selection
+Exemplo Sort Selection<br>
+
+
+## Podemos utilizar mais notações, como: O(log n) e O(n log n)
+O O(log n) é quando temos quantas vezes elevamos n até o fator, os dados tem que estar previamente ordenados.<br>
+Quando Utilizamos O(n log n) Queremos em cada n descobrir o log de n
