@@ -1,6 +1,6 @@
 package algoritimo
 
-func SelectionSort(nums []int) []int {
+func Selection_sort(nums []int) []int {
 	for i := 0; i < len(nums)-1; i++ {
 		sort(nums, i)
 	}

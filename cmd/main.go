@@ -8,6 +8,6 @@ import (
 
 func main() {
 
-	data := algoritimo.SelectionSort([]int{60, 20, 10, 70, 30, 60, 30, 20, 50})
-	fmt.Println(data)
+	data := algoritimo.Selection_sort([]int{60, 20, 10, 70, 30, 60, 30, 20, 50})
+	fmt.Println(algoritimo.Binary_search(20, data))
 }
